@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Autonomous Drive",
+  "description": "Adaptive Path Planning & Collision Avoidance for Unstructured Indian Roads",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
